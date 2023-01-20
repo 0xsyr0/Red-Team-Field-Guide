@@ -8,4 +8,4 @@ Field guide to gather low-hanging fruits. In this repository we are trying to on
 
 ## Table of Contents
 
-- [Reconnaissance](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/01_information_gathering.md)
+- [Information Gathering](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/01_information_gathering.md)
