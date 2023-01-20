@@ -19,3 +19,7 @@ $ amass intel --asn <ASN>
 $ amass intel --asn <ASN> -list
 $ amass enum -active -d <TARGET_DOMAIN> -p 80,443,8080
 ```
+
+> https://www.g0dmode.biz/
+
+> https://github.com/christophetd/spoofing-office-macro/blob/master/macro64.vba
