@@ -8,6 +8,7 @@
 - [DMARC](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#DMARC)
 - [Naabu](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Naabu)
 - [Nmap](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Nmap)
+- [Shodan](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Shodan)
 - [SPF](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#SPF)
 - [sslscan](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#sslscan)
 - [sslyze](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#sslyze)
@@ -52,6 +53,12 @@ $ sudo naabu -p - -l /PATH/TO/FILE/<FILE> -o /PATH/TO/FILE/<FILE>
 ```c
 $ sudo nmap -sC -sV -sS -p- -oN initial --script discovery <RHOST>
 $ sudo nmap -sV -sU <RHOST>
+```
+
+## Shodan
+
+```c
+Ssl.cert.subject.CN:"<DOMAIN>" -http.title:"Invalid URL" 200
 ```
 
 ## SPF
