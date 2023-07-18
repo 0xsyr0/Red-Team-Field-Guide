@@ -30,8 +30,6 @@
 ## Amass
 
 ```c
-URL: https://github.com/OWASP/Amass
-
 $ amass intel --asn <ASN>
 $ amass intel --asn <ASN> -list
 $ amass enum -active -d <TARGET_DOMAIN> -p 80,443,8080
