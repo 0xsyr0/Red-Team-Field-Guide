@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-- [Amass](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Amass)
-- [DMARC](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#DMARC)
-- [Naabu](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Naabu)
-- [Nmap](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Nmap)
-- [Shodan](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Shodan)
-- [SPF](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#SPF)
-- [sslscan](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#sslscan)
-- [sslyze](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#sslyze)
-- [subfinder](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#subfinder)
+- [Amass](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#Amass)
+- [DMARC](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#DMARC)
+- [Naabu](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#Naabu)
+- [Nmap](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#Nmap)
+- [Shodan](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#Shodan)
+- [SPF](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#SPF)
+- [sslscan](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#sslscan)
+- [sslyze](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#sslyze)
+- [subfinder](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md#subfinder)
 
 ## Resources
 
