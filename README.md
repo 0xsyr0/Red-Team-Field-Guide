@@ -8,4 +8,10 @@ Field guide to gather low-hanging fruits. In this repository we are trying to on
 
 ## Table of Contents
 
-- [Reconaissance](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md)
+- [1 Reconaissance](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/1-reconnaissance.md)
+- [2 Weaponization](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/2-weaponization.md)
+- [3 Delivery](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/3-delivery.md)
+- [4 Exploitation](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/4-exploitation.md)
+- [5 Installation](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/5-installation.md)
+- [6 Command & Control](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/6-command-and-control.md)
+- [7 Actions on Objectives](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/7-actions-on-objectives.md)
