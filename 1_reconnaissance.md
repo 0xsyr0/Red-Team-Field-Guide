@@ -1,4 +1,4 @@
-# Reconnaissance
+# 1 Reconnaissance
 
 - [Resources](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Resources)
 
