@@ -1,15 +1,31 @@
 # Reconnaissance
 
+- [Resources](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Resources)
+
+## Table of Contents
+
+- [Amass](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Amass)
+- [DMARC](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#DMARC)
+- [Naabu](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Naabu)
+- [Nmap](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#Nmap)
+- [SPF](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#SPF)
+- [sslscan](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#sslscan)
+- [sslyze](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#sslyze)
+- [subfinder](https://github.com/0xsyr0/Red-Team-Field-Guide/blob/main/reconnaissance.md#subfinder)
+
+## Resources
+
 | Name | URL |
 | --- | --- |
-| Nmap | https://github.com/nmap/nmap |
 | Amass | https://github.com/OWASP/Amass |
-| naabu | https://github.com/projectdiscovery/naabu |
-| subfinder | https://github.com/projectdiscovery/subfinder |
-| IPinfo | https://ipinfo.io |
 | crt.sh | https://crt.sh |
 | Censys | https://search.censys.io |
 | DNSdumpster | https://dnsdumpster.com |
+| IPinfo | https://ipinfo.io |
+| naabu | https://github.com/projectdiscovery/naabu |
+| Nmap | https://github.com/nmap/nmap |
+| spiderfoot | https://github.com/smicallef/spiderfoot |
+| subfinder | https://github.com/projectdiscovery/subfinder |
 
 ## Amass
 
