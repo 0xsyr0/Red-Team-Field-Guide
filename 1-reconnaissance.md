@@ -57,7 +57,7 @@ $ sudo nmap -sV -sU <RHOST>
 
 ## Shodan
 
-```console
+```
 Ssl.cert.subject.CN:"<DOMAIN>" -http.title:"Invalid URL" 200
 ```
 
