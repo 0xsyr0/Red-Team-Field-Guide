@@ -30,7 +30,7 @@
 
 ## Amass
 
-```c
+```console
 $ amass intel --asn <ASN>
 $ amass intel --asn <ASN> -list
 $ amass enum -active -d <TARGET_DOMAIN> -p 80,443,8080
@@ -38,56 +38,56 @@ $ amass enum -active -d <TARGET_DOMAIN> -p 80,443,8080
 
 ## DMARC
 
-```c
+```console
 $ dig txt _dmarc.<DOMAIN> | grep dmarc
 ```
 
 ## Naabu
 
-```c
+```console
 $ sudo naabu -p - -l /PATH/TO/FILE/<FILE> -o /PATH/TO/FILE/<FILE>
 ```
 
 ## Nmap
 
-```c
+```console
 $ sudo nmap -sC -sV -sS -p- -oN initial --script discovery <RHOST>
 $ sudo nmap -sV -sU <RHOST>
 ```
 
 ## Shodan
 
-```c
+```console
 Ssl.cert.subject.CN:"<DOMAIN>" -http.title:"Invalid URL" 200
 ```
 
 ## SPF
 
-```c
+```console
 $ dig txt <DOMAIN> | grep spf
 ```
 
 ## sslscan
 
-```c
+```console
 $ sslscan <RHOST>
 ```
 
 ## sslyze
 
-```c
+```console
 $ sslyze <RHOST>
 ```
 
 ## subfinder
 
-```c
+```console
 $ subfinder -dL /PATH/TO/FILE/<FILE>
 $ subfinder -dL /PATH/TO/FILE/<FILE> -nW -ip -p /PATH/TO/FILE/<FILE>
 ```
 
 ### Scan for Top Routinely Exploited Vulnerabilities according to CISA
 
-```c
+```console
 $ subfinder -d <DOMAIN> -all -silent | httpx -silent | nuclei -rl 50 -c 15 -timeout 10 -tags cisa -vv 
 ```
